@@ -31,7 +31,7 @@ PART I PROOF
 ![Running topsis.py script](image.png)
 
 ![Output_new.csv file added](image-1.png)
-You can the Output_new.csv file is added.
+Output_new.csv file is added.
 
 PART – II : PYTHON PACKAGE CREATION & PYPI UPLOAD
 --------------------------------------------------
