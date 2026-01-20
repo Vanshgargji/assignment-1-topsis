@@ -45,6 +45,8 @@ topsis_vansh_102303137
 Description:
 A Python package was created to solve MCDM problems using TOPSIS. The package works as a command-line tool and accepts CSV input, weights, and impacts to generate a ranked output CSV file.
 
+<img width="1134" height="865" alt="image" src="https://github.com/user-attachments/assets/8fe92f5b-9805-4ab2-ba31-eec5c1b4686d" />
+
 Installation:
 pip install topsis_vansh_102303137
 
